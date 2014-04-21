@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Jekyll: New draft",
+        "command": "jekyll_new_draft"
+    }
+]

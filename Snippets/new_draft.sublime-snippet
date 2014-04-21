@@ -1,0 +1,14 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content><![CDATA[
+---
+layout: post
+title:  "$1"
+categories: $2
+---
+
+$3]]></content>
+    <tabTrigger>newdraft</tabTrigger>
+    <scope>text.html.jekyll, text.html.markdown.jekyll, source.json.jekyll, text.html.textile.jekyll</scope>
+    <description>include</description>
+</snippet>

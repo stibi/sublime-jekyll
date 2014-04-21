@@ -1,3 +1,5 @@
 # Sublime Text related files
 Sublime/
 package-metadata.json
+*.cache
+*.pyc
